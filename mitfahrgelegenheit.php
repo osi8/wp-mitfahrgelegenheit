@@ -4,7 +4,7 @@
 	Plugin URI: https://www.bessermitfahren.de/api
 	Description: Plugin zur Einbindung von Suchergebnissen für Mitfahrgelegenheiten
 	Author: Philipp Roggan
-	Version: 1.1.1
+	Version: 1.1.2
 	Author URI: https://www.bessermitfahren.de/vision
 	Text Domain: bmf-api
 	License: WTFPL
