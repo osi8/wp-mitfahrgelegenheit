@@ -3,7 +3,7 @@ Contributors: bessermitfahren
 Tags: mfg, bessermitfahren, BesserMitfahren.de, fahrgemeinschaft, car sharing, travel, blablacar, mitfahrzentrale, auto
 Donate link: https://www.bessermitfahren.de/werbung
 Requires at least: 4.5.0
-Tested up to: 5.0.0
+Tested up to: 5.1.1
 License: WTFPL
 License URI: http://www.wtfpl.net/txt/copying/
 
@@ -58,6 +58,8 @@ https://github.com/osi8/wp-mitfahrgelegenheit
 1. https://www.bessermitfahren.de/images/wordpress_example.png
 
 == Changelog ==
+= 1.1.4 =
+* Tested for 5.1.1
 = 1.1.3 =
 * Tested for 5.0.0
 = 1.1.2 =
